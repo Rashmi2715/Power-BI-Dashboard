@@ -21,3 +21,4 @@ The goal was to learn how to build interactive dashboards and work with visuals,
 - Power Query  
 - DAX (basic calculations)
 
+video tutorial link:https://youtu.be/mmxVCFceQgU?si=ggfTcBq8l1m3JnIp
